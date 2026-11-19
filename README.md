@@ -70,12 +70,3 @@ tests/                              Unit and security logic regression tests
 - In production, train and tune on a historical clean baseline, compare with rule-only alerts, use holdout time splits, monitor drift and audit the privacy implications.
 - This uses no Microsoft Graph or Entra ID API because no tenant or paid license is required to demonstrate the method. Live connector access would require explicit authorized scopes and privacy controls.
 
-## Customize for your GitHub
-
-Make an empty public repo `signinsentry-iam-anomaly-detection`, commit this directory and include a real screenshot of the investigation queue. No screenshot is fabricated in the repository.
-
-## CV bullet (only after local verification)
-
-> Built a reproducible IAM behavior analytics prototype using Python, temporal feature engineering, explainable sign-in risk rules, and Isolation Forest to rank suspicious synthetic authentication events, with precision/recall reporting and a Streamlit investigation dashboard.
-
-MIT license. Demo only.
