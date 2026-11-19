@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+src/signinsentry/__init__.py
+src/signinsentry/cli.py
+src/signinsentry/detect.py
+src/signinsentry/generate.py
+src/signinsentry.egg-info/PKG-INFO
+src/signinsentry.egg-info/SOURCES.txt
+src/signinsentry.egg-info/dependency_links.txt
+src/signinsentry.egg-info/requires.txt
+src/signinsentry.egg-info/top_level.txt
+tests/test_detect.py

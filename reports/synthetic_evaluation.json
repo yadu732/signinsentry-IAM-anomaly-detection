@@ -1,0 +1,12 @@
+{
+  "simulated_events": 180,
+  "alerts": 123,
+  "precision": 0.911,
+  "recall": 0.622,
+  "f1": 0.739,
+  "tp": 112,
+  "fp": 11,
+  "fn": 68,
+  "tn": 4309,
+  "caution": "Metrics on deliberately injected patterns in synthetic logs, not real-world detection performance."
+}
